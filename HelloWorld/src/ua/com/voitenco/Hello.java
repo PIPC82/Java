@@ -9,7 +9,7 @@ public class Hello {
          {
         	 System.out.println(i+" %");
          }
-         System.out.println("Пентагон взломан!!!!!!!");
+         System.out.println("Пентагон взломан 2 !!!!!!!");
 	}
 
 }
